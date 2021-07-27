@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "express-hell-world",
   "version": "0.1.3",
   "private": true,
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
-    "debug": "~2.6.9",
+    "debug": "3.2.7",
     "express": "~4.16.0",
     "http-errors": "~1.6.2",
     "morgan": "~1.9.1",
